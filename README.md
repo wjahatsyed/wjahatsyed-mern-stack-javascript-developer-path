@@ -4,6 +4,7 @@ The repository has coding examples with details and notes for each of the 13 cou
 and the coding examples are JavaScript files under specific folders of each course.
 
 1-learning-npm-the-node-package-manager
+
 2-nodejs-essential-training
 
 I hvae tried my best to explain everything which I have been learning during this learning path.
