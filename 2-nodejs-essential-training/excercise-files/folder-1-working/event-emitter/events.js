@@ -2,6 +2,7 @@ const events = require("events");
 
 const emitter = new events.EventEmitter();
 
+//using the on method - customEvent
 emitter.on("customEvent", (message, user) => {
     console.log(`${user}: ${message}`);
 });
